@@ -1,0 +1,15 @@
+Help me resolve the issue for loading only one chat from the csv file.
+
+
+
+Lets have discussion before creating app. I will implement the SQL later. Can you shift my database from the local excel files to google sheet? Only doubt I have is how the linking of burmese to devnagari is going to handle can you take the inputs of google sheet tables for it?
+
+
+
+Burmese_Conversation: https://docs.google.com/spreadsheets/d/1it_qxYycDn2P1aUyO38tAiiC77NbPefjN6Bw9xeR-Oc/edit?gid=0#gid=0
+
+Consonants: https://docs.google.com/spreadsheets/d/1it_qxYycDn2P1aUyO38tAiiC77NbPefjN6Bw9xeR-Oc/edit?gid=1575080214#gid=1575080214
+
+Special_characters: https://docs.google.com/spreadsheets/d/1it_qxYycDn2P1aUyO38tAiiC77NbPefjN6Bw9xeR-Oc/edit?gid=1881483613#gid=1881483613
+
+Vowels: https://docs.google.com/spreadsheets/d/1it_qxYycDn2P1aUyO38tAiiC77NbPefjN6Bw9xeR-Oc/edit?gid=2032073827#gid=2032073827

@@ -1,0 +1,11 @@
+CSV Upload functionality - So you can load all your conversations
+
+but what about the processing of the Burmese to devnagari? where it will be done?
+
+
+From the lesson selector dropdown I want to select the lessons but from that I have to link the database right?
+
+below are also required but they are too advanced at this stage.
+Audio playback - Hear pronunciation (if you have audio files)
+Progress tracking - Mark lessons as completed
+Search/filter - Find specific phrases or words
